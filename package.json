@@ -1,0 +1,14 @@
+{
+  "name": "rabbits-mvc",
+  "version": "1.0.0",
+  "description": "example by freecodecamp.org",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "markus seiwald",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
